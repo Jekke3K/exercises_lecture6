@@ -1,0 +1,7 @@
+mkdir exercises
+cd exercises
+git init
+git remote add origin git remote add origin https://github.com/Jekke3K/exercises_lecture6.git
+git add exercise1.txt
+git comit -m "Added exercise1.txt"
+git push -u origin master
